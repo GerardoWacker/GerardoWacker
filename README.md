@@ -2,8 +2,6 @@
 My name is Gerardo Wacker, I'm a developer, studying Computer Engineering in Buenos Aires, Argentina 🇦🇷. <br />
 I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNetwork), as well as a lead developer for [UnderVolt's PixelClient](https://twitter.com/pixelclient).
 
-Mate lover 🧉
-
 <h2>💼 Skills</h2>
 <ul>
   <li><b>📋 C1 English Level</b> (Score: 192, CAE Certificate, Cambridge English)<br /></li>
@@ -76,6 +74,7 @@ Mate lover 🧉
   <li>My dream is to live and work in Japan 🇯🇵. That's why I'm learing its language</li>
   <li>I have a cat, whose name is Tita.</li>
   <li>I used to be able to play the piano 🎹, but I lost practice due to studying.</li>
+  <li>My favourite drink is <a href="https://en.wikipedia.org/wiki/Mate_(drink)">Mate 🧉</a>.</li>
 </ul>
 <h2>📞 Contact me</h2>
 <ul>
