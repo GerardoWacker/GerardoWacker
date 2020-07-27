@@ -69,7 +69,7 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
 </ul>
 <h2>😋 Facts about me</h2>
 <ul>
-  <li>I currently living in Buenos Aires City, even though I was born in Concordia, Entre Rios.</li>
+  <li>I'm currently living in Buenos Aires City, even though I was born in Concordia, Entre Rios.</li>
   <li>I've lived in more than 7 cities throughout my life.</li>
   <li>My dream is to live and work in Japan 🇯🇵. That's why I'm learing its language</li>
   <li>I have a cat, whose name is Tita.</li>
