@@ -4,7 +4,7 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
 
 <h2>💼 Skills</h2>
 <ul>
-  <li><b>📋 C1 English Level</b> (Score: 192, CAE Certificate, Cambridge English)<br /></li>
+  <li><b>📋 C1 English Level</b> (CAE Certificate, Cambridge English)<br /></li>
   <li>
    <b>⌨️ Programming languages:</b><br />
    <ul>
