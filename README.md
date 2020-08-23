@@ -6,14 +6,14 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
 <ul>
   <li><b>📋 C1 English Level</b> (CAE Certificate, Cambridge English)<br /></li>
   <li>
-   <b>⌨️ Programming languages:</b><br />
+   <b>⌨️</b><br />
    <ul>
      <li>PHP7</li>
      <li>JavaScript</li>
      <li>NodeJS</li>
      <li>React</li>
      <li>Java (OOP Experience)</li>
-     <li>SQL and NoSQL databases (eg. Mongo, MariaDB)</li>
+     <li>SQL and NoSQL databases</li>
      <li>HTML & CSS</li>
      <li>Dart</li>
      <li>Flutter</li>
