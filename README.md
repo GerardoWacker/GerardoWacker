@@ -1,5 +1,5 @@
 # Hey there! 👋
-My name is Gerardo Wacker, I'm a developer, studying Computer Engineering at the Belgrano University, Buenos Aires, Argentina 🇦🇷. <br />
+My name is Gerardo Wacker, I'm a developer, studying Computer Engineering in Buenos Aires, Argentina 🇦🇷. <br />
 I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNetwork), as well as a lead developer for [UnderVolt's PixelClient](https://twitter.com/pixelclient).
 
 ![](https://komarev.com/ghpvc/?username=gerardowacker&color=FF9900&label=Visitas+al+perfil)
@@ -25,50 +25,6 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
   <li><b>📷 5 years of picture editing experience</b> (Adobe Photoshop, Adobe Illustrator, Adobe Animate)<br /></li>
 </ul>
 
-<h2>💼 Projects:</h2>
-<ul>
- <li>
-   <h3><a href="https://pixelclient.net">PixelClient (Currently offline)</a> (2019-Present)</h3>
-   Minecraft Client, Code optimizations + Custom Addons/Mods.<br />
-   <ins>Languages used:</ins><br />
-   <ul>
-     <li><b>Java:</b> Client-Side aspects</li>
-     <li>
-       <b>NodeJS:</b>
-       <ul>
-         <li>Express (backend)</li>
-         <li>React (frontend)</li>
-       </ul>
-     </li>
-   </ul>
- </li>
- <li>
-   <h3><a href="https://privet.stcl.ga">Privet</a> (2020-Present)</h3>
-   <a href="https://discord.com">Discord</a> Music Bot<br />
-   Uses multiple nodes to resolve tasks, like searching through YouTube, or playing a stream with a video's audio.<br />
-   <ins>Languages used:</ins><br />
-   <ul>
-     <li>
-       <b>NodeJS:</b>
-       <ul>
-         <li><a href="https://discord.js.org">discord.js</a> (bot)</li>
-         <li><a href="https://socket.io">Socket.IO</a> (communication between nodes)</li>
-         <li>DiscordAPI (backend)</li>
-         <li>Express (backend)</li>
-         <li>React (frontend)</li>
-       </ul>
-     </li>
-   </ul>
- </li>
- <li>
-   <h3><a href="https://github.com/gerardowacker/citroapi">CitroAPI</a> (2019)</h3>
-   Simple web crawler that saves websites to your computer<br />
-   <ins>Languages used:</ins><br />
-   <ul>
-     <li><b>PHP</b></li>
-   </ul>
- </li>
-</ul>
 <h2>😋 Facts about me</h2>
 <ul>
   <li>I'm currently living in Buenos Aires City, even though I was born in Concordia, Entre Rios.</li>
@@ -81,5 +37,5 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
 <h2>📞 Contact me</h2>
 <ul>
   <li><b>Twitter</b>: <a href="https://twitter.com/GerardoWacker">@GerardoWacker</a></li>
-  <li><b>Discord</b>: <a href="#">@Gerardo#4962</a></li>
+  <li><b>Discord</b>: <a href="#">@Gerar#1301</a></li>
 </ul>
