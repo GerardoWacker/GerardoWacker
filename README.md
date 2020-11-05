@@ -7,20 +7,7 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
 <h2>💼 Skills</h2>
 <ul>
   <li><b>📋 C1 English Level</b> (CAE Certificate, Cambridge English)<br /></li>
-  <li>
-   <b>⌨️</b><br />
-   <ul>
-     <li>PHP7</li>
-     <li>JavaScript</li>
-     <li>NodeJS</li>
-     <li>React</li>
-     <li>Java (OOP Experience)</li>
-     <li>SQL and NoSQL databases</li>
-     <li>HTML & CSS</li>
-     <li>Dart</li>
-     <li>Flutter</li>
-   </ul>
-  </li>
+  <li><b>⌨️ Programming</b> (PHP, JavaScript, Java, Dart)</li>
   <li><b>🎥 5 years of video editing experience</b> (Adobe Premiere Pro, MAGIX Vegas Pro)<br /></li>
   <li><b>📷 5 years of picture editing experience</b> (Adobe Photoshop, Adobe Illustrator, Adobe Animate)<br /></li>
 </ul>
@@ -33,9 +20,4 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
   <li>I have a cat, whose name is Tita.</li>
   <li>I used to be able to play the piano 🎹, but I lost practice due to studying.</li>
   <li>My favourite drink is <a href="https://en.wikipedia.org/wiki/Mate_(drink)">Mate 🧉</a>.</li>
-</ul>
-<h2>📞 Contact me</h2>
-<ul>
-  <li><b>Twitter</b>: <a href="https://twitter.com/GerardoWacker">@GerardoWacker</a></li>
-  <li><b>Discord</b>: <a href="#">@Gerar#1301</a></li>
 </ul>
