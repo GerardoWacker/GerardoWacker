@@ -8,8 +8,8 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
 <ul>
   <li><b>📋 C1 English Level</b> (CAE Certificate, Cambridge English)<br /></li>
   <li><b>⌨️ Programming</b> (PHP, JavaScript, Java, Dart)</li>
-  <li><b>🎥 5 years of video editing experience</b> (Adobe Premiere Pro, MAGIX Vegas Pro)<br /></li>
-  <li><b>📷 5 years of picture editing experience</b> (Adobe Photoshop, Adobe Illustrator, Adobe Animate)<br /></li>
+  <li><b>🎥 6 years of video editing experience</b> (Adobe Premiere Pro, MAGIX Vegas Pro)<br /></li>
+  <li><b>📷 6 years of picture editing experience</b> (Adobe Photoshop, Adobe Illustrator, Adobe Animate)<br /></li>
 </ul>
 
 <h2>😋 Facts about me</h2>
