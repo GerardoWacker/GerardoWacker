@@ -7,8 +7,8 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
 <h2>📊 Stats</h2>
 
 <div style="display: flex;">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=gerardowacker&show_icons=true&theme=dracula" height="200">
-  <img alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardowacker&theme=dracula&layout=compact" height="200">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=gerardowacker&show_icons=true&theme=dracula" height="150">
+  <img alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardowacker&theme=dracula&layout=compact" height="150">
 </div>
 
 <h2>💼 Skills</h2>
