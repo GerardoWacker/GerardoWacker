@@ -4,6 +4,13 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
 
 ![](https://komarev.com/ghpvc/?username=gerardowacker&color=FF9900&label=Profile+views)
 
+<h2>📊 Stats</h2>
+
+<div style="display: flex;">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=gerardowacker&show_icons=true&theme=dracula" height="200">
+  <img alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardowacker&theme=dracula&layout=compact" height="200">
+</div>
+
 <h2>💼 Skills</h2>
 <ul>
   <li><b>📋 C1 English Level</b> (CAE Certificate, Cambridge English)<br /></li>
@@ -16,7 +23,6 @@ I work as an administrator in [ArkFlame Network](https://twitter.com/ArkFlameNet
 <ul>
   <li>I'm currently living in Buenos Aires City, even though I was born in Concordia, Entre Rios.</li>
   <li>I've lived in more than 7 cities throughout my life.</li>
-  <li>My dream is to live and work in Japan 🇯🇵. That's why I'm learning its language</li>
   <li>I have a cat, whose name is Tita.</li>
   <li>I used to be able to play the piano 🎹, but I lost practice due to studying.</li>
   <li>My favourite drink is <a href="https://en.wikipedia.org/wiki/Mate_(drink)">Mate 🧉</a>.</li>
