@@ -13,7 +13,7 @@ As a hobby, I work as a developer for [ArkFlame](https://github.com/arkflame) an
 <h2>💼 Skills</h2>
 <ul>
   <li><b>📋 C1 English Level</b> (CAE Certificate, Cambridge English)<br /></li>
-  <li><b>⌨️ Programming</b> (Java, JavaScript, TypeScript, PHP, Dart, and learning Python at uni!)</li>
+  <li><b>⌨️ Programming</b> (Java, JavaScript (ExpressJS, ReactJS, ElectronJS), PHP, Dart, and learning Python at uni!)</li>
   <li><b>🎥 7 years of video editing experience</b> (Adobe Premiere Pro, MAGIX Vegas Pro)<br /></li>
   <li><b>📷 7 years of picture editing experience</b> (Adobe Photoshop, Adobe Illustrator, Adobe Animate)<br /></li>
 </ul>
