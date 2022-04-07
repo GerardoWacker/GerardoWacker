@@ -3,6 +3,7 @@ My name is Gerardo Wacker, I'm a developer, studying Computer Engineering in Bue
 As a hobby, I work as a developer for [ArkFlame](https://github.com/arkflame) and [UnderVolt](https://github.com/undervolt).
 
 ![](https://komarev.com/ghpvc/?username=gerardowacker&color=FF9900&label=Profile+views)
+![](https://wakatime.com/badge/user/257ceb34-7deb-45b3-b6dc-5fd5e991d7b6.svg)
 
 <h2>📊 Stats</h2>
 <div style="display: flex;">
