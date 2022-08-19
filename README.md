@@ -21,6 +21,7 @@ As a hobby, I work as a developer for [ArkFlame](https://github.com/arkflame) an
 
 <h2>😋 Facts about me</h2>
 <ul>
+  <li>Proud Arch Linux (<a href="https://github.com/gerardowacker/configuraciones">dotfiles</a>) + Vim user.</li>
   <li>I'm currently living in Buenos Aires City, even though I was born in Concordia, Entre Rios.</li>
   <li>I've lived in more than 7 cities throughout my life.</li>
   <li>I have a tuxedo cat. Her name is <a href="https://i.rar.vg/p2SUuBIJRUDpPzYp5tfrpOdbIGueR8rE.png">Tita</a>.</li>
