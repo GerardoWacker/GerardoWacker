@@ -24,6 +24,6 @@ As a hobby, I work as a developer for [ArkFlame](https://github.com/arkflame) an
   <li>Proud Arch Linux (<a href="https://github.com/gerardowacker/configuraciones/tree/barless">dotfiles</a>) + Vim user.</li>
   <li>I'm currently living in Buenos Aires City, even though I was born in Concordia, Entre Rios.</li>
   <li>I've lived in more than 7 cities throughout my life.</li>
-  <li>I have a tuxedo cat. Her name is <a href="https://i.rar.vg/p2SUuBIJRUDpPzYp5tfrpOdbIGueR8rE.png">Tita</a>.</li>
+  <li>I have a tuxedo cat. Her name is <a href="https://i.imgur.com/0BFH0Gy.jpeg">Tita</a>.</li>
   <li>My favourite drink is <a href="https://en.wikipedia.org/wiki/Mate_(drink)">Mate 🧉</a>.</li>
 </ul>
