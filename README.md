@@ -15,6 +15,7 @@ I used to work as a developer for [ArkFlame](https://github.com/arkflame) and [U
 <ul>
   <li><b>⌨️ Programming</b> (Java, JavaScript (Express, React, Electron), PHP, Dart)</li>
   <li><b>📋 C1 English Level</b> (CAE Certificate, Cambridge English)<br /></li>
+  <li><b>📄 Certified ANSI SQL Operator</b> (Issued by UB)</li>
   <li>📷 Almost 10 years of <b>picture</b> and <b>video</b> editing experience (Adobe Suite)</li>
 </ul>
 
