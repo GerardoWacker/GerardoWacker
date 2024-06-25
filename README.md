@@ -1,5 +1,5 @@
 # Hey there! 👋
-My name is Gerardo Wacker, I'm a developer, studying Computer Engineering in Buenos Aires, Argentina 🇦🇷. <br />
+My name is Gerardo Wacker, I'm a software analyst and developer, studying Computer Engineering in Buenos Aires, Argentina 🇦🇷. <br />
 I used to work as a developer for [ArkFlame](https://github.com/arkflame) and [UnderVolt](https://github.com/undervolt).
 
 ![](https://komarev.com/ghpvc/?username=gerardowacker&color=FF9900&label=Profile+views)
