@@ -9,7 +9,7 @@ i'm [Gerardo](mailto:gerardo@wacker.com.ar), a software analyst and developer, s
  - **📄 certified ANSI SQL operator**: issued by [UB](https://ub.edu.ar).
  - **🌐 server configuration/integration**: i've been doing it since i was 9 years old.
  - **📋 C1 english level**: CAE certificate, issued by Cambridge English (2019).
- - 📷 10 years of **picture** and **video** editing experience (Adobe Suite)
+ - 📷 10 years of **picture** and **video** editing experience (Adobe Suite).
 
 ### 😋 facts about me
 - even though i'm able to fulfill roles on back and front end development, i really like designing graphical interfaces.
